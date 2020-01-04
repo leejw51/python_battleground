@@ -1,3 +1,5 @@
 
 def add(v) :
-    return v+10
+    for x in range(10):
+        sum=x
+    return v+sum
